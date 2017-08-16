@@ -7,6 +7,8 @@ Solutions to LeetCode problems in Python
 
 [412. Fizz Buzz](./412.py)
 
+[415. Add Strings](./415.py)
+
 [461. Hamming Distance](./461.py)
 
 [463. Island Perimeter](./463.py)
@@ -18,6 +20,8 @@ Solutions to LeetCode problems in Python
 [504. Base 7](./504.py)
 
 [541. Reverse String 2](./541.py)
+
+[551. Student Attendance Record 1](./551.py)
 
 [561. Array Partition 1](./561.py)
 
