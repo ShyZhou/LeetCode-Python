@@ -1,6 +1,8 @@
 # LeetCode-Python
 Solutions to LeetCode problems in Python
 
+[152. Maximum Product Subarray](./152.py)
+
 [202. Happy Number](./202.py)
 
 [268. Missing Number](./268.py)
