@@ -3,6 +3,8 @@ Solutions to LeetCode problems in Python
 
 [152. Maximum Product Subarray](./152.py)
 
+[155. Min Stack](./155.py)
+
 [162. Find Peak Element](./162.py)
 
 [202. Happy Number](./202.py)
