@@ -5,6 +5,8 @@ Solutions to LeetCode problems in Python
 
 [155. Min Stack](./155.py)
 
+[160. Intersection of Two Linked Lists](./160.py)
+
 [162. Find Peak Element](./162.py)
 
 [202. Happy Number](./202.py)
