@@ -9,6 +9,10 @@ Solutions to LeetCode problems in Python
 
 [162. Find Peak Element](./162.py)
 
+[168. Excel Sheet Column Title](./168.py)
+
+[171. Excel Sheet Column Number](./171.py)
+
 [202. Happy Number](./202.py)
 
 [238. Product of Array Except Self](./238.py)
