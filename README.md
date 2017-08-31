@@ -21,6 +21,8 @@ Solutions to LeetCode problems in Python
 
 [344. Reverse String](./344.py)
 
+[357. Count Numbers with Unique Digits](./357.py)
+
 [412. Fizz Buzz](./412.py)
 
 [415. Add Strings](./415.py)
