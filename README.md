@@ -3,6 +3,8 @@ Solutions to LeetCode problems in Python
 
 [152. Maximum Product Subarray](./152.py)
 
+[153. Find Minimum in Rotated Sorted Array](./153.py)
+
 [155. Min Stack](./155.py)
 
 [160. Intersection of Two Linked Lists](./160.py)
