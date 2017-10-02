@@ -19,6 +19,8 @@ Solutions to LeetCode problems in Python
 
 [172. Factorial Trailing Zeroes](./172.py)
 
+[189. Rotate Array](./189.py)
+
 [202. Happy Number](./202.py)
 
 [238. Product of Array Except Self](./238.py)
