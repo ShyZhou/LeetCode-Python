@@ -21,6 +21,8 @@ Solutions to LeetCode problems in Python
 
 [189. Rotate Array](./189.py)
 
+[191. Number of 1 Bits](./191.py)
+
 [202. Happy Number](./202.py)
 
 [207. Course Schedule](./207.py)
