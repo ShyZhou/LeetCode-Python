@@ -25,6 +25,8 @@ Solutions to LeetCode problems in Python
 
 [202. Happy Number](./202.py)
 
+[205. Isomorphic Strings](./205.py)
+
 [207. Course Schedule](./207.py)
 
 [215. Kth Largest Element in an Array](./215.py)
@@ -32,6 +34,8 @@ Solutions to LeetCode problems in Python
 [217. Contains Duplicate](./217.py)
 
 [219. Contains Duplicate II](./219.py)
+
+[231. Power of Two](./231.py)
 
 [238. Product of Array Except Self](./238.py)
 
