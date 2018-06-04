@@ -11,6 +11,8 @@ Solutions to LeetCode problems in Python
 
 [162. Find Peak Element](./162.py)
 
+[167. Two Sum II - Input array is sorted](./167.py)
+
 [168. Excel Sheet Column Title](./168.py)
 
 [169. Majority Element](./169.py)
@@ -21,11 +23,19 @@ Solutions to LeetCode problems in Python
 
 [189. Rotate Array](./189.py)
 
+[190. Reverse Bits](./190.py)
+
 [191. Number of 1 Bits](./191.py)
+
+[198. House Robber](./198.py)
 
 [202. Happy Number](./202.py)
 
+[203. Remove Linked List Elements](./203.py)
+
 [205. Isomorphic Strings](./205.py)
+
+[206. Reverse Linked List](./206.py)
 
 [207. Course Schedule](./207.py)
 
@@ -37,9 +47,31 @@ Solutions to LeetCode problems in Python
 
 [231. Power of Two](./231.py)
 
+[234. Palindrome Linked List](./234.py)
+
+[235. Lowest Common Ancestor of a Binary Search Tree](./235.py)
+
+[237. Delete Node in a Linked List](./237.py)
+
 [238. Product of Array Except Self](./238.py)
 
+[242. Valid Anagram](./242.py)
+
+[257. Binary Tree Paths](./257.py)
+
+[258. Add Digits](./258.py)
+
+[263. Ugly Number](./263.py)
+
 [268. Missing Number](./268.py)
+
+[278. First Bad Version](./278.py)
+
+[283. Move Zeroes](./283.py)
+
+[290. Word Pattern](./290.py)
+
+[292. Nim Game](./292.py)
 
 [344. Reverse String](./344.py)
 
