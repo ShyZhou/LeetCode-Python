@@ -33,6 +33,8 @@ Solutions to LeetCode problems in Python
 
 [203. Remove Linked List Elements](./203.py)
 
+[204. Count Primes](./204.py)
+
 [205. Isomorphic Strings](./205.py)
 
 [206. Reverse Linked List](./206.py)
