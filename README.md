@@ -21,6 +21,8 @@ Solutions to LeetCode problems in Python
 
 [172. Factorial Trailing Zeroes](./172.py)
 
+[179. Largest Number](./179.py)
+
 [189. Rotate Array](./189.py)
 
 [190. Reverse Bits](./190.py)
