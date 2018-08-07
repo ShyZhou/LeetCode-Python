@@ -77,6 +77,8 @@ Solutions to LeetCode problems in Python
 
 [292. Nim Game](./292.py)
 
+[303. Range Sum Query - Immutable](./303.py)
+
 [344. Reverse String](./344.py)
 
 [357. Count Numbers with Unique Digits](./357.py)
