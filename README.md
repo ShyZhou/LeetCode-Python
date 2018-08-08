@@ -79,6 +79,8 @@ Solutions to LeetCode problems in Python
 
 [303. Range Sum Query - Immutable](./303.py)
 
+[326. Power of Three](./326.py)
+
 [344. Reverse String](./344.py)
 
 [357. Count Numbers with Unique Digits](./357.py)
