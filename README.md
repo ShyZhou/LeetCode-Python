@@ -83,6 +83,10 @@ Solutions to LeetCode problems in Python
 
 [344. Reverse String](./344.py)
 
+[349. Intersection of Two Arrays](./349.py)
+
+[350. Intersection of Two Arrays II](./350.py)
+
 [357. Count Numbers with Unique Digits](./357.py)
 
 [412. Fizz Buzz](./412.py)
