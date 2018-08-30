@@ -73,6 +73,8 @@ Solutions to LeetCode problems in Python
 
 [283. Move Zeroes](./283.py)
 
+[287. Find the Duplicate Number](./287.py)
+
 [290. Word Pattern](./290.py)
 
 [292. Nim Game](./292.py)
