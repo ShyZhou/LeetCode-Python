@@ -49,7 +49,11 @@ Solutions to LeetCode problems in Python
 
 [219. Contains Duplicate II](./219.py)
 
+[225. Implement Stack using Queues](./225.py)
+
 [231. Power of Two](./231.py)
+
+[232. Implement Queue using Stacks](./232.py)
 
 [234. Palindrome Linked List](./234.py)
 
