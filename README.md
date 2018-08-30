@@ -81,13 +81,29 @@ Solutions to LeetCode problems in Python
 
 [326. Power of Three](./326.py)
 
+[342. Power of Four](./342.py)
+
 [344. Reverse String](./344.py)
+
+[345. Reverse Vowels of a String](./345.py)
 
 [349. Intersection of Two Arrays](./349.py)
 
 [350. Intersection of Two Arrays II](./350.py)
 
 [357. Count Numbers with Unique Digits](./357.py)
+
+[367. Valid Perfect Square](./367.py)
+
+[371. Sum of Two Integers](./371.py)
+
+[374. Guess Number Higher or Lower](./374.py)
+
+[383. Ransom Note](./383.py)
+
+[387. First Unique Character in a String](./387.py)
+
+[389. Find the Difference](./389.py)
 
 [412. Fizz Buzz](./412.py)
 
