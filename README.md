@@ -113,6 +113,16 @@ Solutions to LeetCode problems in Python
 
 [389. Find the Difference](./389.py)
 
+[400. Nth Digit](./400.py)
+
+[401. Binary Watch](./401.py)
+
+[404. Sum of Left Leaves](./404.py)
+
+[405. Convert a Number to Hexadecimal](./405.py)
+
+[409. Longest Palindrome](./409.py)
+
 [412. Fizz Buzz](./412.py)
 
 [415. Add Strings](./415.py)
