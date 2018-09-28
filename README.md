@@ -117,6 +117,8 @@ Solutions to LeetCode problems in Python
 
 [401. Binary Watch](./401.py)
 
+[402. Remove K Digits](./402.py)
+
 [404. Sum of Left Leaves](./404.py)
 
 [405. Convert a Number to Hexadecimal](./405.py)
