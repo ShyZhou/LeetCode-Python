@@ -127,6 +127,8 @@ Solutions to LeetCode problems in Python
 
 [412. Fizz Buzz](./412.py)
 
+[413. Arithmetic Slices](./413.py)
+
 [414. Third Maximum Number](./414.py)
 
 [415. Add Strings](./415.py)
