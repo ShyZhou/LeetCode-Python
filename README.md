@@ -133,6 +133,10 @@ Solutions to LeetCode problems in Python
 
 [415. Add Strings](./415.py)
 
+[434. Number of Segments in a String](./434.py)
+
+[438. Find All Anagrams in a String](./438.py)
+
 [461. Hamming Distance](./461.py)
 
 [463. Island Perimeter](./463.py)
