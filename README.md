@@ -137,6 +137,16 @@ Solutions to LeetCode problems in Python
 
 [438. Find All Anagrams in a String](./438.py)
 
+[441. Arranging Coins](./441.py)
+
+[442. Find All Duplicates in an Array](./442.py)
+
+[443. String Compression](./443.py)
+
+[447. Number of Boomerangs](./447.py)
+
+[448. Find All Numbers Disappeared in an Array](./448.py)
+
 [461. Hamming Distance](./461.py)
 
 [463. Island Perimeter](./463.py)
