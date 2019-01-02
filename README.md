@@ -149,6 +149,8 @@ Solutions to LeetCode problems in Python
 
 [448. Find All Numbers Disappeared in an Array](./448.py)
 
+[453. Minimum Moves to Equal Array Elements](./453.py)
+
 [461. Hamming Distance](./461.py)
 
 [463. Island Perimeter](./463.py)
