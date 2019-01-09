@@ -153,6 +153,10 @@ Solutions to LeetCode problems in Python
 
 [455. Assign Cookies](./455.py)
 
+[458. Poor Pigs](./458.py)
+
+[459. Repeated Substring Pattern](./459.py)
+
 [461. Hamming Distance](./461.py)
 
 [463. Island Perimeter](./463.py)
