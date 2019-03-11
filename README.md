@@ -161,6 +161,8 @@ Solutions to LeetCode problems in Python
 
 [463. Island Perimeter](./463.py)
 
+[474. Ones and Zeroes](./474.py)
+
 [475. Heaters](./475.py)
 
 [476. Number Complement](./476.py)
