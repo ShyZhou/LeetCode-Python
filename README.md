@@ -167,6 +167,10 @@ Solutions to LeetCode problems in Python
 
 [476. Number Complement](./476.py)
 
+[482. License Key Formatting](./482.py)
+
+[485. Max Consecutive Ones](./485.py)
+
 [500. Keyboard Row](./500.py)
 
 [504. Base 7](./504.py)
