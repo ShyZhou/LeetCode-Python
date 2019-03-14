@@ -171,6 +171,10 @@ Solutions to LeetCode problems in Python
 
 [485. Max Consecutive Ones](./485.py)
 
+[492. Construct the Rectangle](./492.py)
+
+[496. Next Greater Element I](./496.py)
+
 [500. Keyboard Row](./500.py)
 
 [504. Base 7](./504.py)
