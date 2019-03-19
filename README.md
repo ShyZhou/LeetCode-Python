@@ -181,6 +181,8 @@ Solutions to LeetCode problems in Python
 
 [506. Relative Ranks](./506.py)
 
+[507. Perfect Number](./507.py)
+
 [541. Reverse String 2](./541.py)
 
 [551. Student Attendance Record 1](./551.py)
