@@ -179,6 +179,8 @@ Solutions to LeetCode problems in Python
 
 [504. Base 7](./504.py)
 
+[506. Relative Ranks](./506.py)
+
 [541. Reverse String 2](./541.py)
 
 [551. Student Attendance Record 1](./551.py)
