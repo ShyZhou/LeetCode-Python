@@ -185,6 +185,8 @@ Solutions to LeetCode problems in Python
 
 [509. Fibonacci Number](./509.py)
 
+[520. Detect Capital](./520.py)
+
 [541. Reverse String 2](./541.py)
 
 [551. Student Attendance Record 1](./551.py)
