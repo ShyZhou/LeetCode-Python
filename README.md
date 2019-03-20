@@ -135,6 +135,8 @@ Solutions to LeetCode problems in Python
 
 [427. Construct Quad Tree](./427.py)
 
+[429. N-ary Tree Level Order Traversal](./429.py)
+
 [434. Number of Segments in a String](./434.py)
 
 [438. Find All Anagrams in a String](./438.py)
