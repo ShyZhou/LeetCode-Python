@@ -195,6 +195,8 @@ Solutions to LeetCode problems in Python
 
 [521. Longest Uncommon Subsequence I](./521.py)
 
+[530. Minimum Absolute Difference in BST](./530.py)
+
 [541. Reverse String 2](./541.py)
 
 [551. Student Attendance Record 1](./551.py)
