@@ -139,6 +139,8 @@ Solutions to LeetCode problems in Python
 
 [434. Number of Segments in a String](./434.py)
 
+[437. Path Sum III](./437.py)
+
 [438. Find All Anagrams in a String](./438.py)
 
 [441. Arranging Coins](./441.py)
