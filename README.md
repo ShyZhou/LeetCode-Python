@@ -207,6 +207,8 @@ Solutions to LeetCode problems in Python
 
 [557. Reverse Words in a String III](./557.py)
 
+[559. Maximum Depth of N-ary Tree](./559.py)
+
 [561. Array Partition 1](./561.py)
 
 [566. Reshape the Matrix](./566.py)
