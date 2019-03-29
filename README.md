@@ -183,6 +183,8 @@ Solutions to LeetCode problems in Python
 
 [500. Keyboard Row](./500.py)
 
+[501. Find Mode in Binary Search Tree](./501.py)
+
 [504. Base 7](./504.py)
 
 [506. Relative Ranks](./506.py)
