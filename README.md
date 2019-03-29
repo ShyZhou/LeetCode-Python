@@ -199,9 +199,13 @@ Solutions to LeetCode problems in Python
 
 [530. Minimum Absolute Difference in BST](./530.py)
 
+[532. K-diff Pairs in an Array](./532.py)
+
 [541. Reverse String 2](./541.py)
 
 [551. Student Attendance Record 1](./551.py)
+
+[557. Reverse Words in a String III](./557.py)
 
 [561. Array Partition 1](./561.py)
 
