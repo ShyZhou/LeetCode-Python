@@ -214,3 +214,7 @@ Solutions to LeetCode problems in Python
 [566. Reshape the Matrix](./566.py)
 
 [575. Distribute Candies](./575.py)
+
+[589. N-ary Tree Preorder Traversal](./589.py)
+
+[590. N-ary Tree Postorder Traversal](./590.py)
