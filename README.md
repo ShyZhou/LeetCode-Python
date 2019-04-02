@@ -203,6 +203,8 @@ Solutions to LeetCode problems in Python
 
 [541. Reverse String 2](./541.py)
 
+[543. Diameter of Binary Tree](./543.py)
+
 [551. Student Attendance Record 1](./551.py)
 
 [557. Reverse Words in a String III](./557.py)
