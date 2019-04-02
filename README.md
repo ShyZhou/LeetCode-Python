@@ -215,6 +215,8 @@ Solutions to LeetCode problems in Python
 
 [561. Array Partition 1](./561.py)
 
+[563. Binary Tree Tilt](./563.py)
+
 [566. Reshape the Matrix](./566.py)
 
 [575. Distribute Candies](./575.py)
