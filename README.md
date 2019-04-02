@@ -201,6 +201,8 @@ Solutions to LeetCode problems in Python
 
 [532. K-diff Pairs in an Array](./532.py)
 
+[538. Convert BST to Greater Tree](./538.py)
+
 [541. Reverse String 2](./541.py)
 
 [543. Diameter of Binary Tree](./543.py)
