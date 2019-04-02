@@ -219,6 +219,8 @@ Solutions to LeetCode problems in Python
 
 [566. Reshape the Matrix](./566.py)
 
+[572. Subtree of Another Tree](./572.py)
+
 [575. Distribute Candies](./575.py)
 
 [581. Shortest Unsorted Continuous Subarray](./581.py)
