@@ -230,3 +230,5 @@ Solutions to LeetCode problems in Python
 [590. N-ary Tree Postorder Traversal](./590.py)
 
 [594. Longest Harmonious Subsequence](./594.py)
+
+[598. Range Addition II](./598.py)
