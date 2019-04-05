@@ -232,3 +232,5 @@ Solutions to LeetCode problems in Python
 [594. Longest Harmonious Subsequence](./594.py)
 
 [598. Range Addition II](./598.py)
+
+[599. Minimum Index Sum of Two Lists](./599.py)
