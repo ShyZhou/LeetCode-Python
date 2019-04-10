@@ -235,6 +235,8 @@ Solutions to LeetCode problems in Python
 
 [599. Minimum Index Sum of Two Lists](./599.py)
 
+[605. Can Place Flowers](./605.py)
+
 [606. Construct String from Binary Tree](./606.py)
 
 [617. Merge Two Binary Trees](./617.py)
