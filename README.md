@@ -11,6 +11,8 @@ Solutions to LeetCode problems in Python
 
 [162. Find Peak Element](./162.py)
 
+[165. Compare Version Numbers](./165.py)
+
 [167. Two Sum II - Input array is sorted](./167.py)
 
 [168. Excel Sheet Column Title](./168.py)
