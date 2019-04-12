@@ -244,3 +244,5 @@ Solutions to LeetCode problems in Python
 [617. Merge Two Binary Trees](./617.py)
 
 [628. Maximum Product of Three Numbers](./628.py)
+
+[633. Sum of Square Numbers](./633.py)
