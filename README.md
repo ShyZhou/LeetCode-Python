@@ -13,6 +13,8 @@ Solutions to LeetCode problems in Python
 
 [165. Compare Version Numbers](./165.py)
 
+[166. Fraction to Recurring Decimal](./166.py)
+
 [167. Two Sum II - Input array is sorted](./167.py)
 
 [168. Excel Sheet Column Title](./168.py)
