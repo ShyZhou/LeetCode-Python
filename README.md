@@ -246,3 +246,5 @@ Solutions to LeetCode problems in Python
 [628. Maximum Product of Three Numbers](./628.py)
 
 [633. Sum of Square Numbers](./633.py)
+
+[643. Maximum Average Subarray I](./643.py)
