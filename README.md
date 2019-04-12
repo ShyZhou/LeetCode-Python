@@ -242,3 +242,5 @@ Solutions to LeetCode problems in Python
 [606. Construct String from Binary Tree](./606.py)
 
 [617. Merge Two Binary Trees](./617.py)
+
+[628. Maximum Product of Three Numbers](./628.py)
