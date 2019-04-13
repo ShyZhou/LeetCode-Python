@@ -254,3 +254,9 @@ Solutions to LeetCode problems in Python
 [633. Sum of Square Numbers](./633.py)
 
 [643. Maximum Average Subarray I](./643.py)
+
+[645. Set Mismatch](./645.py)
+
+[657. Robot Return to Origin](./657.py)
+
+[661. Image Smoother](./661.py)
