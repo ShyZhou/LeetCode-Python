@@ -260,3 +260,11 @@ Solutions to LeetCode problems in Python
 [657. Robot Return to Origin](./657.py)
 
 [661. Image Smoother](./661.py)
+
+[674. Longest Continuous Increasing Subsequence](./674.py)
+
+[682. Baseball Game](./682.py)
+
+[686. Repeated String Match](./686.py)
+
+[687. Longest Univalue Path](./687.py)
