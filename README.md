@@ -272,3 +272,5 @@ Solutions to LeetCode problems in Python
 [686. Repeated String Match](./686.py)
 
 [687. Longest Univalue Path](./687.py)
+
+[718. Maximum Length of Repeated Subarray](./718.py)
