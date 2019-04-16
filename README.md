@@ -273,4 +273,10 @@ Solutions to LeetCode problems in Python
 
 [687. Longest Univalue Path](./687.py)
 
+[690. Employee Importance](./690.py)
+
+[697. Degree of an Array](./697.py)
+
+[703. Kth Largest Element in a Stream](./703.py)
+
 [718. Maximum Length of Repeated Subarray](./718.py)
