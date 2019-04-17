@@ -223,6 +223,8 @@ Solutions to LeetCode problems in Python
 
 [557. Reverse Words in a String III](./557.py)
 
+[558. Quad Tree Intersection](./558.py)
+
 [559. Maximum Depth of N-ary Tree](./559.py)
 
 [561. Array Partition 1](./561.py)
@@ -257,6 +259,8 @@ Solutions to LeetCode problems in Python
 
 [633. Sum of Square Numbers](./633.py)
 
+[637. Average of Levels in Binary Tree](./637.py)
+
 [643. Maximum Average Subarray I](./643.py)
 
 [645. Set Mismatch](./645.py)
@@ -264,6 +268,10 @@ Solutions to LeetCode problems in Python
 [657. Robot Return to Origin](./657.py)
 
 [661. Image Smoother](./661.py)
+
+[669. Trim a Binary Search Tree](./669.py)
+
+[671. Second Minimum Node In a Binary Tree](./671.py)
 
 [674. Longest Continuous Increasing Subsequence](./674.py)
 

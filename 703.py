@@ -20,8 +20,6 @@ You may assume that nums' length ≥ k-1 and k ≥ 1.
 """
 
 import bisect
-
-
 class KthLargest(object):
     klargest = []
     k = 0
@@ -48,5 +46,3 @@ class KthLargest(object):
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
 # param_1 = obj.add(val)
-
-
