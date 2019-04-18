@@ -285,8 +285,16 @@ Solutions to LeetCode problems in Python
 
 [690. Employee Importance](./690.py)
 
+[693. Binary Number with Alternating Bits](./693.py)
+
+[696. Count Binary Substrings](./696.py)
+
 [697. Degree of an Array](./697.py)
 
 [703. Kth Largest Element in a Stream](./703.py)
+
+[709. To Lower Case](./709.py)
+
+[717. 1-bit and 2-bit Characters](./717.py)
 
 [718. Maximum Length of Repeated Subarray](./718.py)
