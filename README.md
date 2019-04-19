@@ -271,6 +271,8 @@ Solutions to LeetCode problems in Python
 
 [661. Image Smoother](./661.py)
 
+[665. Non-decreasing Array](./665.py)
+
 [669. Trim a Binary Search Tree](./669.py)
 
 [671. Second Minimum Node In a Binary Tree](./671.py)
@@ -298,3 +300,9 @@ Solutions to LeetCode problems in Python
 [717. 1-bit and 2-bit Characters](./717.py)
 
 [718. Maximum Length of Repeated Subarray](./718.py)
+
+[720. Longest Word in Dictionary](./720.py)
+
+[724. Find Pivot Index](./724.py)
+
+[728. Self Dividing Numbers](./728.py)
