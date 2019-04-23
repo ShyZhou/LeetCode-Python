@@ -306,3 +306,9 @@ Solutions to LeetCode problems in Python
 [724. Find Pivot Index](./724.py)
 
 [728. Self Dividing Numbers](./728.py)
+
+[744. Find Smallest Letter Greater Than Target](./744.py)
+
+[746. Min Cost Climbing Stairs](./746.py)
+
+[747. Largest Number At Least Twice of Others](./747.py)
