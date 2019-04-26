@@ -317,6 +317,10 @@ Solutions to LeetCode problems in Python
 
 [754. Reach a Number](./754.py)
 
+[771. Jewels and Stones](./771.py)
+
+[784. Letter Case Permutation](./784.py)
+
 [788. Rotated Digits](./788.py)
 
 [796. Rotate String](./796.py)
