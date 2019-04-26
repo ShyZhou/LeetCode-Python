@@ -312,3 +312,17 @@ Solutions to LeetCode problems in Python
 [746. Min Cost Climbing Stairs](./746.py)
 
 [747. Largest Number At Least Twice of Others](./747.py)
+
+[748. Shortest Completing Word](./748.py)
+
+[754. Reach a Number](./754.py)
+
+[788. Rotated Digits](./788.py)
+
+[796. Rotate String](./796.py)
+
+[812. Largest Triangle Area](./812.py)
+
+[819. Most Common Word](./819.py)
+
+[821. Shortest Distance to a Character](./821.py)
