@@ -123,6 +123,8 @@ Solutions to LeetCode problems in Python
 
 [383. Ransom Note](./383.py)
 
+[384. Shuffle an Array](./384.py)
+
 [387. First Unique Character in a String](./387.py)
 
 [389. Find the Difference](./389.py)
