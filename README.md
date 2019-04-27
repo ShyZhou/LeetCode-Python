@@ -329,8 +329,16 @@ Solutions to LeetCode problems in Python
 
 [796. Rotate String](./796.py)
 
+[804. Unique Morse Code Words](./804.py)
+
+[806. Number of Lines To Write String](./806.py)
+
 [812. Largest Triangle Area](./812.py)
 
 [819. Most Common Word](./819.py)
 
 [821. Shortest Distance to a Character](./821.py)
+
+[824. Goat Latin](./824.py)
+
+[830. Positions of Large Groups](830.py)
