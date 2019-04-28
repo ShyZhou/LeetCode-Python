@@ -342,3 +342,11 @@ Solutions to LeetCode problems in Python
 [824. Goat Latin](./824.py)
 
 [830. Positions of Large Groups](830.py)
+
+[832. Flipping an Image](./832.py)
+
+[849. Maximize Distance to Closest Person](./849.py)
+
+[860. Lemonade Change](./860.py)
+
+[867. Transpose Matrix](./867.py)
