@@ -25,6 +25,8 @@ Solutions to LeetCode problems in Python
 
 [172. Factorial Trailing Zeroes](./172.py)
 
+[173. Binary Search Tree Iterator](./173.py)
+
 [179. Largest Number](./179.py)
 
 [187. Repeated DNA Sequences](./187.py)
