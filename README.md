@@ -121,6 +121,8 @@ Solutions to LeetCode problems in Python
 
 [371. Sum of Two Integers](./371.py)
 
+[372. Super Pow](./372.py)
+
 [374. Guess Number Higher or Lower](./374.py)
 
 [382. Linked List Random Node](./382.py)
