@@ -313,6 +313,8 @@ Solutions to LeetCode problems in Python
 
 [728. Self Dividing Numbers](./728.py)
 
+[733. Flood Fill](./733.py)
+
 [744. Find Smallest Letter Greater Than Target](./744.py)
 
 [746. Min Cost Climbing Stairs](./746.py)
@@ -322,6 +324,10 @@ Solutions to LeetCode problems in Python
 [748. Shortest Completing Word](./748.py)
 
 [754. Reach a Number](./754.py)
+
+[762. Prime Number of Set Bits in Binary Representation](./762.py)
+
+[766. Toeplitz Matrix](./766.py)
 
 [771. Jewels and Stones](./771.py)
 
@@ -349,6 +355,12 @@ Solutions to LeetCode problems in Python
 
 [849. Maximize Distance to Closest Person](./849.py)
 
+[852. Peak Index in a Mountain Array](./852.py)
+
 [860. Lemonade Change](./860.py)
 
 [867. Transpose Matrix](./867.py)
+
+[868. Binary Gap](./868.py)
+
+[884. Uncommon Words from Two Sentences](./884.py)
