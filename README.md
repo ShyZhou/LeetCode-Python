@@ -303,6 +303,8 @@ Solutions to LeetCode problems in Python
 
 [703. Kth Largest Element in a Stream](./703.py)
 
+[704. Binary Search](./704.py)
+
 [709. To Lower Case](./709.py)
 
 [717. 1-bit and 2-bit Characters](./717.py)
@@ -343,6 +345,8 @@ Solutions to LeetCode problems in Python
 
 [806. Number of Lines To Write String](./806.py)
 
+[811. Subdomain Visit Count](./811.py)
+
 [812. Largest Triangle Area](./812.py)
 
 [819. Most Common Word](./819.py)
@@ -354,6 +358,10 @@ Solutions to LeetCode problems in Python
 [830. Positions of Large Groups](830.py)
 
 [832. Flipping an Image](./832.py)
+
+[836. Rectangle Overlap](./836.py)
+
+[844. Backspace String Compare](./844.py)
 
 [849. Maximize Distance to Closest Person](./849.py)
 
