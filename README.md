@@ -123,6 +123,8 @@ Solutions to LeetCode problems in Python
 
 [372. Super Pow](./372.py)
 
+[373. Find K Pairs with Smallest Sums](./373.py)
+
 [374. Guess Number Higher or Lower](./374.py)
 
 [382. Linked List Random Node](./382.py)
