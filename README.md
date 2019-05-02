@@ -127,6 +127,8 @@ Solutions to LeetCode problems in Python
 
 [374. Guess Number Higher or Lower](./374.py)
 
+[378. Kth Smallest Element in a Sorted Matrix](./378.py)
+
 [382. Linked List Random Node](./382.py)
 
 [383. Ransom Note](./383.py)
