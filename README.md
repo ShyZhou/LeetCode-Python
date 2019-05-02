@@ -376,3 +376,7 @@ Solutions to LeetCode problems in Python
 [868. Binary Gap](./868.py)
 
 [884. Uncommon Words from Two Sentences](./884.py)
+
+[888. Fair Candy Swap](./888.py)
+
+[893. Groups of Special-Equivalent Strings](./893.py)
