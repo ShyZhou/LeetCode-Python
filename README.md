@@ -305,9 +305,13 @@ Solutions to LeetCode problems in Python
 
 [697. Degree of an Array](./697.py)
 
+[700. Search in a Binary Search Tree](./700.py)
+
 [703. Kth Largest Element in a Stream](./703.py)
 
 [704. Binary Search](./704.py)
+
+[705. Design HashSet](./705.py)
 
 [709. To Lower Case](./709.py)
 
@@ -376,6 +380,10 @@ Solutions to LeetCode problems in Python
 [867. Transpose Matrix](./867.py)
 
 [868. Binary Gap](./868.py)
+
+[872. Leaf-Similar Trees](./872.py)
+
+[883. Projection Area of 3D Shapes](./883.py)
 
 [884. Uncommon Words from Two Sentences](./884.py)
 
