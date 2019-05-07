@@ -73,6 +73,8 @@ Solutions to LeetCode problems in Python
 
 [226. Invert Binary Tree](./226.py)
 
+[228. Summary Ranges](./228.py)
+
 [231. Power of Two](./231.py)
 
 [232. Implement Queue using Stacks](./232.py)
