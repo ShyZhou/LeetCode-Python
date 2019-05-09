@@ -75,6 +75,8 @@ Solutions to LeetCode problems in Python
 
 [228. Summary Ranges](./228.py)
 
+[229. Majority Element II](./229.py)
+
 [231. Power of Two](./231.py)
 
 [232. Implement Queue using Stacks](./232.py)
