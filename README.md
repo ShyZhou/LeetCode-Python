@@ -67,6 +67,8 @@ Solutions to LeetCode problems in Python
 
 [219. Contains Duplicate II](./219.py)
 
+[221. Maximal Square](./221.py)
+
 [222. Count Complete Tree Nodes](./222.py)
 
 [225. Implement Stack using Queues](./225.py)
