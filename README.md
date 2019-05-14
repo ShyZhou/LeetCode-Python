@@ -99,6 +99,8 @@ Solutions to LeetCode problems in Python
 
 [258. Add Digits](./258.py)
 
+[260. Single Number III](./260.py)
+
 [263. Ugly Number](./263.py)
 
 [268. Missing Number](./268.py)
