@@ -93,6 +93,8 @@ Solutions to LeetCode problems in Python
 
 [238. Product of Array Except Self](./238.py)
 
+[241. Different Ways to Add Parentheses](./241.py)
+
 [242. Valid Anagram](./242.py)
 
 [257. Binary Tree Paths](./257.py)
