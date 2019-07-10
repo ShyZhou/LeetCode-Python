@@ -81,6 +81,8 @@ Solutions to LeetCode problems in Python
 
 [229. Majority Element II](./229.py)
 
+[230. Kth Smallest Element in a BST](./230.py)
+
 [231. Power of Two](./231.py)
 
 [232. Implement Queue using Stacks](./232.py)
