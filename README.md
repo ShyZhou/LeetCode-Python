@@ -111,6 +111,8 @@ Solutions to LeetCode problems in Python
 
 [278. First Bad Version](./278.py)
 
+[279. Perfect Squares](./279.py)
+
 [283. Move Zeroes](./283.py)
 
 [287. Find the Duplicate Number](./287.py)
