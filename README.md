@@ -117,6 +117,8 @@ Solutions to LeetCode problems in Python
 
 [287. Find the Duplicate Number](./287.py)
 
+[289. Game of Life](./289.py)
+
 [290. Word Pattern](./290.py)
 
 [292. Nim Game](./292.py)
