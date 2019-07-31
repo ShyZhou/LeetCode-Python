@@ -123,6 +123,8 @@ Solutions to LeetCode problems in Python
 
 [292. Nim Game](./292.py)
 
+[300. Longest Increasing Subsequence](./300.py)
+
 [303. Range Sum Query - Immutable](./303.py)
 
 [326. Power of Three](./326.py)
