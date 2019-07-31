@@ -229,6 +229,10 @@ Solutions to LeetCode problems in Python
 
 [492. Construct the Rectangle](./492.py)
 
+[494. Target Sum](./494.py)
+
+[495. Teemo Attacking](./495.py)
+
 [496. Next Greater Element I](./496.py)
 
 [500. Keyboard Row](./500.py)
