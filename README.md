@@ -129,6 +129,8 @@ Solutions to LeetCode problems in Python
 
 [326. Power of Three](./326.py)
 
+[328. Odd Even Linked List](./328.py)
+
 [334. Increasing Triplet Subsequence](./334.py)
 
 [342. Power of Four](./342.py)
