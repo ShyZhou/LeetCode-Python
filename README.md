@@ -139,6 +139,8 @@ Solutions to LeetCode problems in Python
 
 [345. Reverse Vowels of a String](./345.py)
 
+[347. Top K Frequent Elements](./347.py)
+
 [349. Intersection of Two Arrays](./349.py)
 
 [350. Intersection of Two Arrays II](./350.py)
