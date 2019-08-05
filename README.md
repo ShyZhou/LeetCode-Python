@@ -133,6 +133,8 @@ Solutions to LeetCode problems in Python
 
 [334. Increasing Triplet Subsequence](./334.py)
 
+[341. Flatten Nested List Iterator](./341.py)
+
 [342. Power of Four](./342.py)
 
 [344. Reverse String](./344.py)
