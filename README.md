@@ -247,6 +247,8 @@ Solutions to LeetCode problems in Python
 
 [496. Next Greater Element I](./496.py)
 
+[498. Diagonal Traverse](./498.py)
+
 [500. Keyboard Row](./500.py)
 
 [501. Find Mode in Binary Search Tree](./501.py)
