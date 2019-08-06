@@ -235,6 +235,8 @@ Solutions to LeetCode problems in Python
 
 [485. Max Consecutive Ones](./485.py)
 
+[486. Predict the Winner](./486.py)
+
 [491. Increasing Subsequences](./491.py)
 
 [492. Construct the Rectangle](./492.py)
