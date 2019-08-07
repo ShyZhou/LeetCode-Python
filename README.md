@@ -231,6 +231,8 @@ Solutions to LeetCode problems in Python
 
 [476. Number Complement](./476.py)
 
+[478. Generate Random Point in a Circle](./478.py)
+
 [481. Magical String](./481.py)
 
 [482. License Key Formatting](./482.py)
