@@ -173,6 +173,8 @@ Solutions to LeetCode problems in Python
 
 [389. Find the Difference](./389.py)
 
+[395. Longest Substring with At Least K Repeating Characters](./395.py)
+
 [400. Nth Digit](./400.py)
 
 [401. Binary Watch](./401.py)
