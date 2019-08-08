@@ -127,6 +127,8 @@ Solutions to LeetCode problems in Python
 
 [303. Range Sum Query - Immutable](./303.py)
 
+[318. Maximum Product of Word Lengths](./318.py)
+
 [322. Coin Change](./322.py)
 
 [326. Power of Three](./326.py)
