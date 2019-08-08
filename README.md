@@ -129,6 +129,8 @@ Solutions to LeetCode problems in Python
 
 [318. Maximum Product of Word Lengths](./318.py)
 
+[319. Bulb Switcher](./319.py)
+
 [322. Coin Change](./322.py)
 
 [326. Power of Three](./326.py)
