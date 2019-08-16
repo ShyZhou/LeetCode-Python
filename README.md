@@ -139,6 +139,8 @@ Solutions to LeetCode problems in Python
 
 [334. Increasing Triplet Subsequence](./334.py)
 
+[338. Counting Bits](./338.py)
+
 [341. Flatten Nested List Iterator](./341.py)
 
 [342. Power of Four](./342.py)
