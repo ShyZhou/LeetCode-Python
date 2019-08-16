@@ -199,6 +199,8 @@ Solutions to LeetCode problems in Python
 
 [415. Add Strings](./415.py)
 
+[416. Partition Equal Subset Sum](./416.py)
+
 [427. Construct Quad Tree](./427.py)
 
 [429. N-ary Tree Level Order Traversal](./429.py)
@@ -240,6 +242,8 @@ Solutions to LeetCode problems in Python
 [475. Heaters](./475.py)
 
 [476. Number Complement](./476.py)
+
+[477. Total Hamming Distance](./477.py)
 
 [478. Generate Random Point in a Circle](./478.py)
 
