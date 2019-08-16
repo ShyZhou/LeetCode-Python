@@ -233,6 +233,8 @@ Solutions to LeetCode problems in Python
 
 [463. Island Perimeter](./463.py)
 
+[473. Matchsticks to Square](./473.py)
+
 [474. Ones and Zeroes](./474.py)
 
 [475. Heaters](./475.py)
