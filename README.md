@@ -145,6 +145,8 @@ Solutions to LeetCode problems in Python
 
 [342. Power of Four](./342.py)
 
+[343. Integer Break](./343.py)
+
 [344. Reverse String](./344.py)
 
 [345. Reverse Vowels of a String](./345.py)
