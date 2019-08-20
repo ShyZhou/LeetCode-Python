@@ -243,6 +243,8 @@ Solutions to LeetCode problems in Python
 
 [463. Island Perimeter](./463.py)
 
+[470. Implement Rand10() Using Rand7()](./470.py)
+
 [473. Matchsticks to Square](./473.py)
 
 [474. Ones and Zeroes](./474.py)
