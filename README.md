@@ -183,6 +183,8 @@ Solutions to LeetCode problems in Python
 
 [389. Find the Difference](./389.py)
 
+[390. Elimination Game](./390.py)
+
 [394. Decode String](./394.py)
 
 [395. Longest Substring with At Least K Repeating Characters](./395.py)
