@@ -181,6 +181,8 @@ Solutions to LeetCode problems in Python
 
 [387. First Unique Character in a String](./387.py)
 
+[388. Longest Absolute File Path](./388.py)
+
 [389. Find the Difference](./389.py)
 
 [390. Elimination Game](./390.py)
