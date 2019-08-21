@@ -247,6 +247,8 @@ Solutions to LeetCode problems in Python
 
 [463. Island Perimeter](./463.py)
 
+[467. Unique Substrings in Wraparound String](./467.py)
+
 [470. Implement Rand10() Using Rand7()](./470.py)
 
 [473. Matchsticks to Square](./473.py)
