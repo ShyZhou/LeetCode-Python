@@ -191,6 +191,8 @@ Solutions to LeetCode problems in Python
 
 [395. Longest Substring with At Least K Repeating Characters](./395.py)
 
+[397. Integer Replacement](./397.py)
+
 [400. Nth Digit](./400.py)
 
 [401. Binary Watch](./401.py)
