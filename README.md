@@ -195,6 +195,8 @@ Solutions to LeetCode problems in Python
 
 [398. Random Pick Index](./398.py)
 
+[399. Evaluate Division](./399.py)
+
 [400. Nth Digit](./400.py)
 
 [401. Binary Watch](./401.py)
