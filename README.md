@@ -191,6 +191,8 @@ Solutions to LeetCode problems in Python
 
 [395. Longest Substring with At Least K Repeating Characters](./395.py)
 
+[396. Rotate Function](./396.py)
+
 [397. Integer Replacement](./397.py)
 
 [398. Random Pick Index](./398.py)
