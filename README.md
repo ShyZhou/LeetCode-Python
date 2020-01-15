@@ -1,11 +1,143 @@
 # LeetCode-Python
 Solutions to LeetCode problems in Python
 
+[2. Add Two Numbers](./2.py)
+
+[3. Longest Substring Without Repeating Characters](./3.py)
+
+[4. Median of Two Sorted Arrays](./4.py)
+
+[5. Longest Palindromic Substring](./5.py)
+
+[10. Regular Expression Matching](./10.py)
+
+[11. Container With Most Water](./11.py)
+
+[14. Longest Common Prefix](./14.py)
+
+[15. 3Sum](./15.py)
+
+[17. Letter Combinations of a Phone Number](./17.py)
+
+[18. 4Sum](./15.py)
+
+[19. Remove Nth Node From End of List](./19.py)
+
+[20. Valid Parentheses](./20.py)
+
+[21. Merge Two Sorted Lists](./21.py)
+
+[22. Generate Parentheses](./22.py)
+
+[23. Merge k Sorted Lists](./23.py)
+
+[26. Remove Duplicates from Sorted Array](./26.py)
+
+[27. Remove Element](./27.py)
+
+[31. Next Permutation](./31.py)
+
+[33. Search in Rotated Sorted Array](./33.py)
+
+[39. Combination Sum](./39.py)
+
+[40. Combination Sum II](./39.py)
+
+[41. First Missing Positive](./41.py)
+
+[42. Trapping Rain Water](./42.py)
+
+[43. Multiply Strings](./43.py)
+
+[46. Permutations](./46.py)
+
+[49. Group Anagrams](./49.py)
+
+[53. Maximum Subarray](./53.py)
+
+[54. Spiral Matrix](./54.py)
+
+[55. Jump Game](./55.py)
+
+[56. Merge Intervals](./56.py)
+
+[66. Plus One](./66.py)
+
+[70. Climbing Stairs](./70.py)
+
+[75. Sort Colors](./75.py)
+
+[76. Minimum Window Substring](./76.py)
+
+[77. Combinations](./77.py)
+
+[78. Subsets](./78.py)
+
+[79. Word Search](./79.py)
+
+[81. Search in Rotated Sorted Array II](./33.py)
+
+[84. Largest Rectangle in Histogram](./84.py)
+
+[85. Maximal Rectangle](./84.py)
+
+[88. Merge Sorted Array](./88.py)
+
+[91. Decode Ways](./91.py)
+
+[92. Reverse Linked List II](./206.py)
+
+[93. Restore IP Addresses](./93.py)
+
+[94. Binary Tree Inorder Traversal](./94.py)
+
+[98. Validate Binary Search Tree](./98.py)
+
+[100. Same Tree](./100.py)
+
+[101. Symmetric Tree](./101.py)
+
+[102. Binary Tree Level Order Traversal](./102.py)
+
+[103. Binary Tree Zigzag Level Order Traversal](./103.py)
+
+[104. Maximum Depth of Binary Tree](./104.py)
+
+[107. Binary Tree Level Order Traversal II](./107.py)
+
+[111. Minimum Depth of Binary Tree](./111.py)
+
+[121. Best Time to Buy and Sell Stock](./121.py)
+
+[122. Best Time to Buy and Sell Stock II](./121.py)
+
+[123. Best Time to Buy and Sell Stock III](./121.py)
+
+[126. Word Ladder II](./127.py)
+
+[127. Word Ladder](./127.py)
+
+[131. Palindrome Partitioning](./131.py)
+
+[133. Clone Graph](./133.py)
+
+[138. Copy List with Random Pointer](./138.py)
+
+[141. Linked List Cycle](./141.py)
+
+[142. Linked List Cycle II](./141.py)
+
+[144. Binary Tree Preorder Traversal](./144.py)
+
+[146. LRU Cache](./146.py)
+
 [152. Maximum Product Subarray](./152.py)
 
 [153. Find Minimum in Rotated Sorted Array](./153.py)
 
 [155. Min Stack](./155.py)
+
+[157. Read N Characters Given Read4](./157.py)
 
 [160. Intersection of Two Linked Lists](./160.py)
 
@@ -57,11 +189,17 @@ Solutions to LeetCode problems in Python
 
 [207. Course Schedule](./207.py)
 
+[208. Implement Trie (Prefix Tree)](./208.py)
+
 [209. Minimum Size Subarray Sum](./209.py)
+
+[212. Word Search II](./79.py)
 
 [213. House Robber II](./213.py)
 
 [215. Kth Largest Element in an Array](./215.py)
+
+[216. Combination Sum III](./39.py)
 
 [217. Contains Duplicate](./217.py)
 
@@ -70,6 +208,8 @@ Solutions to LeetCode problems in Python
 [221. Maximal Square](./221.py)
 
 [222. Count Complete Tree Nodes](./222.py)
+
+[224. Basic Calculator](./224.py)
 
 [225. Implement Stack using Queues](./225.py)
 
@@ -91,13 +231,21 @@ Solutions to LeetCode problems in Python
 
 [235. Lowest Common Ancestor of a Binary Search Tree](./235.py)
 
+[236. Lowest Common Ancestor of a Binary Tree](./236.py)
+
 [237. Delete Node in a Linked List](./237.py)
 
 [238. Product of Array Except Self](./238.py)
 
+[240. Search a 2D Matrix II](./240.py)
+
 [241. Different Ways to Add Parentheses](./241.py)
 
 [242. Valid Anagram](./242.py)
+
+[252. Meeting Rooms](./252.py)
+
+[253. Meeting Rooms II](./252.py)
 
 [257. Binary Tree Paths](./257.py)
 
@@ -108,6 +256,10 @@ Solutions to LeetCode problems in Python
 [263. Ugly Number](./263.py)
 
 [268. Missing Number](./268.py)
+
+[269. Alien Dictionary](./269.py)
+
+[273. Integer to English Words](./273.py)
 
 [278. First Bad Version](./278.py)
 
@@ -123,7 +275,13 @@ Solutions to LeetCode problems in Python
 
 [292. Nim Game](./292.py)
 
+[297. Serialize and Deserialize Binary Tree](./297.py)
+
+[298. Binary Tree Longest Consecutive Sequence](./298.py)
+
 [300. Longest Increasing Subsequence](./300.py)
+
+[301. Remove Invalid Parentheses](./301.py)
 
 [303. Range Sum Query - Immutable](./303.py)
 
@@ -137,7 +295,13 @@ Solutions to LeetCode problems in Python
 
 [328. Odd Even Linked List](./328.py)
 
+[329. Longest Increasing Path in a Matrix](./329.py)
+
+[332. Reconstruct Itinerary](./332.py)
+
 [334. Increasing Triplet Subsequence](./334.py)
+
+[336. Palindrome Pairs](./336.py)
 
 [338. Counting Bits](./338.py)
 
@@ -151,6 +315,8 @@ Solutions to LeetCode problems in Python
 
 [345. Reverse Vowels of a String](./345.py)
 
+[346. Moving Average from Data Stream](./346.py)
+
 [347. Top K Frequent Elements](./347.py)
 
 [349. Intersection of Two Arrays](./349.py)
@@ -158,6 +324,8 @@ Solutions to LeetCode problems in Python
 [350. Intersection of Two Arrays II](./350.py)
 
 [357. Count Numbers with Unique Digits](./357.py)
+
+[362. Design Hit Counter](./362.py)
 
 [367. Valid Perfect Square](./367.py)
 
@@ -170,6 +338,8 @@ Solutions to LeetCode problems in Python
 [374. Guess Number Higher or Lower](./374.py)
 
 [378. Kth Smallest Element in a Sorted Matrix](./378.py)
+
+[380. Insert Delete GetRandom O(1)](./380.py)
 
 [382. Linked List Random Node](./382.py)
 
@@ -311,6 +481,8 @@ Solutions to LeetCode problems in Python
 
 [509. Fibonacci Number](./509.py)
 
+[515. Find Largest Value in Each Tree Row](./515.py)
+
 [520. Detect Capital](./520.py)
 
 [521. Longest Uncommon Subsequence I](./521.py)
@@ -325,6 +497,8 @@ Solutions to LeetCode problems in Python
 
 [543. Diameter of Binary Tree](./543.py)
 
+[547. Friend Circles](./547.py)
+
 [551. Student Attendance Record 1](./551.py)
 
 [557. Reverse Words in a String III](./557.py)
@@ -332,6 +506,8 @@ Solutions to LeetCode problems in Python
 [558. Quad Tree Intersection](./558.py)
 
 [559. Maximum Depth of N-ary Tree](./559.py)
+
+[560. Subarray Sum Equals K](./560.py)
 
 [561. Array Partition 1](./561.py)
 
@@ -383,6 +559,8 @@ Solutions to LeetCode problems in Python
 
 [674. Longest Continuous Increasing Subsequence](./674.py)
 
+[679. 24 Game](./679.py)
+
 [682. Baseball Game](./682.py)
 
 [686. Repeated String Match](./686.py)
@@ -392,6 +570,8 @@ Solutions to LeetCode problems in Python
 [690. Employee Importance](./690.py)
 
 [693. Binary Number with Alternating Bits](./693.py)
+
+[695. Max Area of Island](./695.py)
 
 [696. Count Binary Substrings](./696.py)
 
@@ -413,11 +593,15 @@ Solutions to LeetCode problems in Python
 
 [720. Longest Word in Dictionary](./720.py)
 
+[721. Accounts Merge](./721.py)
+
 [724. Find Pivot Index](./724.py)
 
 [728. Self Dividing Numbers](./728.py)
 
 [733. Flood Fill](./733.py)
+
+[743. Network Delay Time](./743.py)
 
 [744. Find Smallest Letter Greater Than Target](./744.py)
 
@@ -427,6 +611,8 @@ Solutions to LeetCode problems in Python
 
 [748. Shortest Completing Word](./748.py)
 
+[753. Cracking the Safe](./753.py)
+
 [754. Reach a Number](./754.py)
 
 [762. Prime Number of Set Bits in Binary Representation](./762.py)
@@ -435,7 +621,11 @@ Solutions to LeetCode problems in Python
 
 [771. Jewels and Stones](./771.py)
 
+[772. Basic Calculator III](./224.py)
+
 [784. Letter Case Permutation](./784.py)
+
+[785. Is Graph Bipartite](./785.py)
 
 [788. Rotated Digits](./788.py)
 
@@ -455,6 +645,8 @@ Solutions to LeetCode problems in Python
 
 [824. Goat Latin](./824.py)
 
+[829. Consecutive Numbers Sum](829.py)
+
 [830. Positions of Large Groups](830.py)
 
 [832. Flipping an Image](./832.py)
@@ -469,6 +661,8 @@ Solutions to LeetCode problems in Python
 
 [860. Lemonade Change](./860.py)
 
+[863. All Nodes Distance K in Binary Tree](./863.py)
+
 [867. Transpose Matrix](./867.py)
 
 [868. Binary Gap](./868.py)
@@ -482,3 +676,31 @@ Solutions to LeetCode problems in Python
 [888. Fair Candy Swap](./888.py)
 
 [893. Groups of Special-Equivalent Strings](./893.py)
+
+[904. Fruit Into Baskets](./904.py)
+
+[905. Sort Array By Parity](./905.py)
+
+[921. Minimum Add to Make Parentheses Valid](./921.py)
+
+[922. Sort Array By Parity II](./905.py)
+
+[937. Reorder Data in Log Files](./937.py)
+
+[944. Delete Columns to Make Sorted](./944.py)
+
+[973. K Closest Points to Origin](./973.py)
+
+[984. String Without AAA or BBB](./984.py)
+
+[985. Sum of Even Numbers After Queries](./985.py)
+
+[1021. Remove Outermost Parentheses](./1021.py)
+
+[1072. Flip Columns For Maximum Number of Equal Rows](./1072.py)
+
+[1094. Car Pooling](./1094.py)
+
+[1138. Alphabet Board Path](./1138.py)
+
+[1172. Dinner Plate Stacks](./1172.py)

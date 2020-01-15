@@ -27,3 +27,19 @@ class Solution(object):
             tmp = nums.pop()
             nums.insert(0, tmp)
         return
+
+class Solution(object):
+    def rotate(self, nums, k):
+        for _ in range(k):
+            nums.insert(0, nums.pop())
+
+class Solution(object):
+    def rotate(self, nums, k):
+        k = k % len(nums)
+        nums[:] = nums[-k:] + nums[:-k]
+
+class Solution(object):
+    def rotate(self, nums, k):
+        q = collections.deque(nums)
+        q.rotate(k)
+        nums[:] = q
